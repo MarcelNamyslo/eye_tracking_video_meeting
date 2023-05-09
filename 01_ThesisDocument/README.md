@@ -1,0 +1,2 @@
+# 01 Thesis Document
+Folder for holding te LaTeX and source files for building the paper written during the semester to support the application and implementation of it. Also holds a final export in PDF format.

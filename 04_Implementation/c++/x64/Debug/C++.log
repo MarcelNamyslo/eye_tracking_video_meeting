@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(71,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(90,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(91,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(117,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\main.cpp(117,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  socket.cpp
+  Generating Code...
+  LINK : C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\c++\x64\Debug\C++.exe not found or not built by the last incremental link; performing full link
+  C++.vcxproj -> C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\c++\x64\Debug\C++.exe

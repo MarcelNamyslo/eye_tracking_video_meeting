@@ -1,0 +1,6 @@
+// 1=tracking, 0=exit, anything else=no tracking
+EYETRACKER_MODE=0
+// NORMAL, DEV
+C_APPLICATION_MODE=NORMAL
+// NORMAL, DEV
+PY_APPLICATION_MODE=NORMAL

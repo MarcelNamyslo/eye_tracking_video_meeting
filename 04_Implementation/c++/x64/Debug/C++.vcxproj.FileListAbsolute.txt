@@ -1,0 +1,3 @@
+C:\Users\Paul\Documents\GIT\uas-ss-22-eye-tracking-video-meeting\04_Implementation\C++\x64\Debug\C++.exe
+C:\Users\wesse\Documents\GitHub\uas-ss-22-eye-tracking-video-meeting\04_Implementation\c++\x64\Debug\C++.exe
+C:\Users\Marci\Eyetracker\uas-ss-22-eye-tracking-video-meeting\04_Implementation\c++\x64\Debug\C++.exe
